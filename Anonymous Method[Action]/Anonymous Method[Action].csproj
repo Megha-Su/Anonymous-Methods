@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Anonymous_Method_Action_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\megha.su\Desktop\New folder\Anonymous Method[Action].cs" Link="Anonymous Method[Action].cs" />
+  </ItemGroup>
+
+</Project>
